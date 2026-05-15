@@ -58,8 +58,6 @@ ML
 ├── api.py
 ├── best_arecanut_model.h5
 ├── train_model.py
-├── dataset
-├── venv
 │
 └── frontend
      ├── index.html
