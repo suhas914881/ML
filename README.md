@@ -62,5 +62,5 @@ ML
 └── frontend
      ├── index.html
      ├── style.css
-     └── script.js# ML
+     └── script.js
  Arecanut Plant Disease Prediction and Solutions
